@@ -1,3 +1,16 @@
 h1 {
   color: blue;
 }
+
+.box1 {
+  width: 30%;
+  padding: 30px;
+  border: solid rgb(31, 219, 72);
+  border-width: 30px;
+  background-color: rgb(255, 153, 0);
+  margin-bottom: 15px;
+}
+
+span {
+  color: aqua
+}
