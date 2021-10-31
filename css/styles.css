@@ -15,3 +15,8 @@ span {
   color: aqua
 }
 
+.sidebar {
+  width: 90%;
+  float: right;
+  background-color: yellow;
+}
